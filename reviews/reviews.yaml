@@ -9,5 +9,5 @@ spec:
   endpoint: http://reviews
   schema:
     ociImage:
-      reference: ghcr.io/example/reviews:latest
+      reference: ghcr.io/shaurya10000/reviews:latest
       path: /app/schema.graphql
